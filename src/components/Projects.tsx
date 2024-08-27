@@ -72,7 +72,7 @@ function Projects() {
                 </h3>
                 <div className="text-base !m-0 !p-0 font-normal">
                     <span className="text-slate-500 ">
-                    Developed a MERN stack application named 'Tasveer,' featuring dynamic form handling and AI-driven image generation through the OpenAI API, with a scalable backend deployed on Render and frontend hosted on Netlify.
+                    Developed a MERN stack application named Tasveer, featuring dynamic form handling and AI-driven image generation through the OpenAI API, with a scalable backend deployed on Render and frontend hosted on Netlify.
                     </span>
                 </div>
                 <Image
