@@ -55,6 +55,7 @@ function Projects() {
                     alt="PromptCraft"
                     height={200}
                     width={200}
+                    priority
                     className="w-full rounded-lg mt-4"
                 />
                 </div>
@@ -80,6 +81,7 @@ function Projects() {
                     alt="Tasveer"
                     height={200}
                     width={200}
+                    priority
                     className="w-full rounded-lg mt-4"
                 />
                 </div>
@@ -105,6 +107,7 @@ function Projects() {
                     alt="Brain"
                     height={200}
                     width={200}
+                    priority
                     className="w-full rounded-lg mt-4"
                 />
                 </div>
@@ -130,6 +133,7 @@ function Projects() {
                     alt="Dashboard"
                     height={200}
                     width={200}
+                    priority
                     className="w-full rounded-lg mt-4"
                 />
                 </div>
@@ -155,6 +159,7 @@ function Projects() {
                     alt="Image"
                     height={200}
                     width={200}
+                    priority
                     className="w-full rounded-lg mt-4"
                 />
                 </div>
