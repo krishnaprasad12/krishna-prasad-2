@@ -126,7 +126,7 @@ function Projects() {
                     </span>
                 </div>
                 <Image
-                    src="/assets/dash.png"
+                    src="/assets/caption.jpg"
                     alt="Dashboard"
                     height={200}
                     width={200}
@@ -151,7 +151,7 @@ function Projects() {
                     </span>
                 </div>
                 <Image
-                    src="/assets/caption.jpg"
+                    src="/assets/dash.png"
                     alt="Image"
                     height={200}
                     width={200}
